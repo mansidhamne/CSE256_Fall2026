@@ -1,0 +1,4 @@
+torch>=2.2
+nltk>=3.8.2
+numpy<2
+matplotlib>=3.7
